@@ -1,6 +1,6 @@
 # Kylan Kempster - Personal Website
 
-This is a simple, beautiful modern website for Kylan Kempster, a full-stack developer with a focus on frontend, located in Dallas.
+This is a simple, modern website for Kylan Kempster, a full-stack developer with a focus on frontend, located in Dallas.
 
 ## How to Host on GitHub Pages
 
